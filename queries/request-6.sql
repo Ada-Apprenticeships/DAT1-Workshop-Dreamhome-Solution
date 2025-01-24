@@ -4,9 +4,9 @@
 -- 6.1
 SELECT DISTINCT city
 FROM (
-    SELECT city FROM BRANCH
+    SELECT city FROM branch
     UNION
-    SELECT city FROM PROPERTYFORRENT
+    SELECT city FROM propertyforrent
 );
 
 -- 6.2

@@ -3,7 +3,7 @@
 
 -- 3.1
 SELECT ownerno, fname, lname, address, telno, email
-FROM PRIVATEOWNER
+FROM privateowner
 WHERE fname LIKE 'C%';
 
 -- 3.2
