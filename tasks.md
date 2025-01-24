@@ -16,7 +16,7 @@ We're considering expanding to areas with postcode starting 'BS1'. Can you confi
 ## 2. Client Relations Team
 
 ### Request 2.1:
-Find all properties managed by client 'CL5612'. We need this for a client satisfaction survey.
+Find all properties managed by client 'PO4756'. We need this for a client satisfaction survey.
 
 ### Request 2.2:
 We're auditing recent client registrations. Please provide all registrations at branch 'B052' that occurred after September 28, 2013.
@@ -44,7 +44,7 @@ We need a comprehensive list of all rental properties, including owner details, 
 Create a report of high-value properties (those with rent higher than average) for potential investors.
 
 ### Request 4.3:
-Due to increased demand, we need to increase the rent for all London properties by 10%.
+Due to increased demand, we need to increase the rent for all Manchester properties by 10%.
 
 ## 5. Operations and HR Team
 
@@ -63,7 +63,7 @@ Identify all staff members who manage properties with above-average rent for our
 For our board meeting, we need a list of all cities where we either have a branch office or a property for rent, without duplicates.
 
 ### Request 6.2:
-We're updating our database. Please create a new table named 'property_reviews' to store customer feedback.
+We're updating our database. Please create a new table named 'propertyreviews' to store customer feedback.
 
 ### Request 6.3:
 We've collected initial reviews for some properties. Please add these to our new 'property_reviews' table.
